@@ -216,4 +216,4 @@ It worked. That's one free project on one date; I didn't test the dashboard's po
 
 ## Clean-up
 
-This was a free test project with only made-up data. I'm deleting it after publishing this write-up.
+This was a free test project with only made-up data. I deleted it on 12 October 2026, after publishing this write-up.
